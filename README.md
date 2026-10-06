@@ -1,19 +1,22 @@
 <h1 align="center">Hi there, I'm Octaviani Nursalsabila</h1>
 
-<h3 align="center">Web Developer | Fullstack Developer</h3>
+<h3 align="center">Web Developer | Fullstack Developer | Roblox Developer</h3>
 
 ---
 
 ### About Me
 
-I'm a developer who enjoys turning ideas into practical products with clean UI and a well-structured backend.
-I build full stack web applications, work with spatial data using GIS, and also script for Roblox using Lua (Luau).
+I'm a Web Developer and Roblox Developer who enjoys building practical applications and interactive experiences. I mainly work with JavaScript, React.js, PHP, and Laravel for web development, while using Luau for Roblox development.
 
-- Main stack: **Laravel**, **React.js**, **PostgreSQL**, **Supabase**
-- Love building clean, scalable apps with a security-first mindset
+I also have experience working with GIS and spatial data using QGIS and web mapping technologies. I'm interested in building clean, functional projects and continuously exploring new technologies.
+
+- Main stack: **JavaScript, React.js, PHP, Laravel**
+- Roblox development with **Luau** and **Roblox Studio**
 - Experience with REST APIs, authentication, and database design
-- Also work with **QGIS** for GIS and spatial data
-- Always learning and open to new technologies
+- Familiar with **MySQL, PostgreSQL, MongoDB, Firebase, and Supabase**
+- Experience with **React, Laravel, Node.js, Express.js, and Django**
+- Also work with **QGIS** and web-based mapping technologies
+- Always learning and exploring new technologies
 
 ---
 
@@ -25,7 +28,7 @@ I build full stack web applications, work with spatial data using GIS, and also 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat&logo=roblox&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -40,9 +43,14 @@ I build full stack web applications, work with spatial data using GIS, and also 
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=fastapi&logoColor=white)
+
+**Roblox Development**
+
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=flat&logo=roblox&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat&logo=roblox&logoColor=white)
 
 **Database & Cloud**
 
@@ -67,26 +75,16 @@ I build full stack web applications, work with spatial data using GIS, and also 
 
 ---
 
-### Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **Game Store** | Full stack game store with guest checkout, wishlist, reviews, order history, and admin dashboard | React, Vite, Tailwind, Laravel 12, Sanctum, MySQL |
-| **Rbx Tester** | Roblox Classic Clothing Tester to preview Shirt and Pants on R6/R15 avatars (2D and 3D) | React, Vite, Tailwind, shadcn/ui, Three.js |
-| **Robux Top Up** | Production top up website with QRIS payment, webhook verification, and server-side validation | React, Vite, Firebase, Cloud Firestore |
-| **Bimbel Academy** | Tutoring center web app built for a client, with student, teacher, class, and schedule management plus role-based access | Laravel, Tailwind CSS |
-| **Book Lending System** | Web app to manage book loans and returns | Add stack |
-| **Room Booking System** | Web app to manage room reservations | Add stack |
-| **Profit & Loss Dashboard** | Dashboard to track profit and loss, incoming stock, and sales | Add stack |
-
-> Replace the project names, descriptions, and add repo links to match your pinned repositories.
-
----
-
 ### Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/octaviani-nursalsabila-080253293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/octavnnn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:octavianinsb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/octaviani-nursalsabila-080253293/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/octavnnn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:octavianinsb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
