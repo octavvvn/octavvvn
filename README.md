@@ -74,23 +74,19 @@ I build full stack web applications, work with spatial data using GIS, and also 
 | **Game Store** | Full stack game store with guest checkout, wishlist, reviews, order history, and admin dashboard | React, Vite, Tailwind, Laravel 12, Sanctum, MySQL |
 | **Rbx Tester** | Roblox Classic Clothing Tester to preview Shirt and Pants on R6/R15 avatars (2D and 3D) | React, Vite, Tailwind, shadcn/ui, Three.js |
 | **Robux Top Up** | Production top up website with QRIS payment, webhook verification, and server-side validation | React, Vite, Firebase, Cloud Firestore |
+| **Bimbel Academy** | Tutoring center web app built for a client, with student, teacher, class, and schedule management plus role-based access | Laravel, Tailwind CSS |
+| **Book Lending System** | Web app to manage book loans and returns | Add stack |
+| **Room Booking System** | Web app to manage room reservations | Add stack |
+| **Profit & Loss Dashboard** | Dashboard to track profit and loss, incoming stock, and sales | Add stack |
 
 > Replace the project names, descriptions, and add repo links to match your pinned repositories.
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=octavvvn&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octavvvn&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ### Connect with Me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)
-
-> Add links by wrapping each badge, for example `[![LinkedIn](badge-url)](https://linkedin.com/in/username)`.
+<p>
+  <a href="https://www.linkedin.com/in/octaviani-nursalsabila-080253293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/octavnnn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:octavianinsb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
